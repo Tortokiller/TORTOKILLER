@@ -59,7 +59,8 @@
 
 ## 📊 Status
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TORTOKILLER&show_icons=true&theme=tokyonight)
+NOON
+Neural Operations & Optimization Network
 
 ---
 
