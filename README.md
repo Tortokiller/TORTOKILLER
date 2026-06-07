@@ -10,7 +10,7 @@
 
 - 🌐 Languages: Japanese, English, Catalan, Spanish  
 - 💼 Currently open to work  
-- 📫 Email: tortokiller@gmail.com  
+- 📫 Email: tortokiller@proton.me  
 
 ---
 
