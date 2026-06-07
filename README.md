@@ -59,8 +59,7 @@
 
 ## 📊 Status
 
-NOON
-Neural Operations & Optimization Network
+NOON - Neural Operations & Optimization Network
 
 ---
 
