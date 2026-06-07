@@ -1,7 +1,5 @@
 <h1 align="center">TORTOKILLER</h1>
 
-<p align="center"><i>TORTOKILLER</i></p>
-
 ---
 
 <table>
