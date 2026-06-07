@@ -8,7 +8,7 @@
 
 ## 👤 About Me
 
-- 🌐 Languages: Japanese, English, Catalan, Spanish  
+- 🌐 Languages: English, Spanish, Japanese, Catalan
 - 💼 Currently open to work  
 - 📫 Email: tortokiller@proton.me  
 
