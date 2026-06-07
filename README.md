@@ -1,6 +1,6 @@
-<h1 align="center">Alejandro A. Cristóbal</h1>
+<h1 align="center">TORTOKILLER</h1>
 
-<p align="center"><i>AlejandroACG</i></p>
+<p align="center"><i>TORTOKILLER</i></p>
 
 ---
 
@@ -10,35 +10,42 @@
 
 ## 👤 About Me
 
-- 🌍 Fluent in five languages  
+- 🌐 Languages: Japanese, English, Catalan, Spanish  
 - 💼 Currently open to work  
-- 📫 Email: acristobalgarces@hotmail.com  
+- 📫 Email: tortokiller@gmail.com  
 
 ---
 
 ## 🎓 Studies
 
-- 💻 Cross-platform Development  
-- 🎮 3D Modeling & Game Development  
-- 🌐 Translation & Interpretation  
+- 💻 Web Development (Frontend & Backend)  
+- 🌐 Responsive Web Design & UX/UI  
+- ⚙️ API Integration & Web Architecture  
+- 🎮 Basic Game Development Concepts  
 
 ---
 
 ## 🧠 Skills
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,java,bootstrap,react,nodejs,express,mysql,mongodb,git,github,vscode,unity,unreal" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,express,php,mysql,mongodb,tailwind,bootstrap,git,github,vscode,figma" />
 </p>
 
 ---
 
-## 🧰 Tools & Software
+## 🧰 Tools & Web Stack
 
-- Photoshop  
-- Vegas Pro / Cinema 4D / OBS  
-- Audacity  
-- 3ds Max / ZBrush / Substance Suite  
-- Trello / SQL Developer  
+- HTML5 / CSS3 / JavaScript (ES6+)  
+- React / Vue / Next.js  
+- Node.js / Express  
+- REST APIs & JSON  
+- MySQL / MongoDB  
+- TailwindCSS / Bootstrap  
+- Vite / Webpack  
+- Git & GitHub  
+- Figma (UI/UX Design)  
+- VS Code + DevTools  
+- Postman (API Testing)  
 
 </td>
 
@@ -46,21 +53,22 @@
 
 ## 💻 Developer Mode
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="300"/>
 
 ---
 
 ## 📊 Status
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroACG&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TORTOKILLER&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 Focus
 
 Web Development  
-Game Development  
-3D & Design  
+Frontend Engineering  
+Backend Systems  
+UI/UX Design  
 
 </td>
 </tr>
