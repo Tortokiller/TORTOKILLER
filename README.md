@@ -50,4 +50,4 @@ I focus on creating modern, responsive, and fast websites.
 
 ## 💻 Coding in action
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif)
