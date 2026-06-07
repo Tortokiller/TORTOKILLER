@@ -1,53 +1,67 @@
-# 👋 Hi, I’m [Your Name]
+<h1 align="center">Alejandro A. Cristóbal</h1>
 
-## 💻 Web Developer
-
-I focus on creating modern, responsive, and fast websites.
+<p align="center"><i>AlejandroACG</i></p>
 
 ---
 
-## 🚀 Technologies I Use
+<table>
+<tr>
+<td width="60%" valign="top">
 
-### Frontend
-- HTML5
-- CSS3 / TailwindCSS
-- JavaScript
-- React / Vue (if you use them)
+## 👤 About Me
 
-### Backend
-- Node.js
-- Express
-- PHP (if you use it)
-
-### Databases
-- MySQL
-- MongoDB
+- 🌍 Fluent in five languages  
+- 💼 Currently open to work  
+- 📫 Email: acristobalgarces@hotmail.com  
 
 ---
 
-## 🛠️ Tools
+## 🎓 Studies
 
-- Git & GitHub
-- VS Code
-- Figma
-
----
-
-## 📌 Projects
-
-- 🌐 Personal portfolio
-- 🛒 E-commerce website
-- 📚 Blog with CMS
+- 💻 Cross-platform Development  
+- 🎮 3D Modeling & Game Development  
+- 🌐 Translation & Interpretation  
 
 ---
 
-## 📫 Contact
+## 🧠 Skills
 
-- Email: youremail@gmail.com
-- LinkedIn: https://linkedin.com/in/yourusername
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,java,bootstrap,react,nodejs,express,mysql,mongodb,git,github,vscode,unity,unreal" />
+</p>
 
 ---
 
-## 💻 Coding in action
+## 🧰 Tools & Software
 
-![Coding GIF](https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif)
+- Photoshop  
+- Vegas Pro / Cinema 4D / OBS  
+- Audacity  
+- 3ds Max / ZBrush / Substance Suite  
+- Trello / SQL Developer  
+
+</td>
+
+<td width="40%" valign="top" align="center">
+
+## 💻 Developer Mode
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+---
+
+## 📊 Status
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroACG&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Focus
+
+Web Development  
+Game Development  
+3D & Design  
+
+</td>
+</tr>
+</table>
