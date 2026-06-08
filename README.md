@@ -7,7 +7,6 @@
 <td width="60%" valign="top">
 
 ## 👤 About Me
-
 - 🌐 Languages: English, Spanish, Japanese, Catalan
 - 💼 Currently open to work  
 - 📫 Email: tortokiller@proton.me  
@@ -15,7 +14,6 @@
 ---
 
 ## 🎓 Studies
-
 - 💻 Web Development (Frontend & Backend)  
 - 🌐 Responsive Web Design & UX/UI  
 - ⚙️ API Integration & Web Architecture  
@@ -24,7 +22,6 @@
 ---
 
 ## 🧠 Skills
-
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,express,php,mysql,mongodb,tailwind,bootstrap,git,github,vscode,figma" />
 </p>
@@ -32,7 +29,6 @@
 ---
 
 ## 🧰 Tools & Web Stack
-
 - HTML5 / CSS3 / JavaScript (ES6+)  
 - React / Vue / Next.js  
 - Node.js / Express  
@@ -46,7 +42,6 @@
 - Postman (API Testing)  
 
 </td>
-
 <td width="40%" valign="top" align="center">
 
 ## 💻 Developer Mode
@@ -55,14 +50,26 @@
 
 ---
 
-## 📊 Status
+## 🏗️ Stack Orientation
 
+```
+        DevOps
+           ↑
+           |
+Backend ←  ●  → Frontend
+           |
+           ↓
+         Data
+```
+
+---
+
+## 📊 Status
 NOON - Neural Operations & Optimization Network
 
 ---
 
 ## 🔥 Focus
-
 Web Development  
 Frontend Engineering  
 Backend Systems  
