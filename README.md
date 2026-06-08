@@ -52,15 +52,39 @@
 
 ## 🏗️ Stack Orientation
 
-```
-        DevOps
-           ↑
-           |
-Backend ←  ●  → Frontend
-           |
-           ↓
-         Data
-```
+<table align="center">
+  <tr>
+    <td align="center" colspan="3">
+      <sub>⚙️ <b>DevOps</b></sub><br/>
+      <sub>Git · GitHub · Vite · Webpack</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">↑</td>
+  </tr>
+  <tr>
+    <td align="right">
+      <sub>🛠️ <b>Backend</b></sub><br/>
+      <sub>Node · Express<br/>MySQL · MongoDB<br/>REST APIs</sub>
+    </td>
+    <td align="center">
+      &nbsp;←&nbsp;<b>●</b>&nbsp;→&nbsp;
+    </td>
+    <td align="left">
+      <sub>🎨 <b>Frontend</b></sub><br/>
+      <sub>React · Vue<br/>HTML · CSS · JS<br/>Tailwind · Figma</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">↓</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <sub>🗄️ <b>Data</b></sub><br/>
+      <sub>MySQL · MongoDB · JSON</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
