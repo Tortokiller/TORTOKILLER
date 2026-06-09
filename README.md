@@ -74,7 +74,7 @@
       <sub>Node · Express<br/>MySQL · MongoDB<br/>REST APIs</sub>
     </td>
     <td align="center" width="24%">
-      ⬅️ <b>●</b> ➡️
+      ⬅️ <b> ➡️
     </td>
     <td align="center" width="38%">
       🎨 <b>Frontend</b><br/>
