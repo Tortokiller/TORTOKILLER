@@ -113,7 +113,9 @@ Backend Systems · UI/UX Design
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tortokiller&layout=compact&theme=radical&hide_border=true&locale=en&count_private=true" width="40%" alt="Top Languages"/>
 
 <br/><br/>
+
 🌐 **Primary working language:** English — all projects, documentation and commits are written in English.
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1C2E,100:7EC8A4&height=120&section=footer" width="100%"/>
