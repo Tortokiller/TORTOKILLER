@@ -107,10 +107,14 @@ Backend Systems · UI/UX Design
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=tortokiller&show_icons=true&theme=radical&hide_border=true&locale=en" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tortokiller&show_icons=true&theme=radical&hide_border=true&locale=en&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tortokiller&theme=radical&hide_border=true&locale=en" width="48%" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tortokiller&layout=compact&theme=radical&hide_border=true&locale=en" width="40%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tortokiller&layout=compact&theme=radical&hide_border=true&locale=en&count_private=true" width="40%" alt="Top Languages"/>
+
+<br/><br/>
+
+🌐 **Primary working language:** English — all projects, documentation and commits are written in English.
 
 ---
 
