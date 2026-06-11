@@ -8,7 +8,7 @@
 
 🌱 I'm currently learning **advanced JavaScript & serverless architectures**
 
-💬 Ask me about **HTML, CSS, JavaScript, React and Node.js**
+💬 Ask me about **HTML, CSS, JavaScript, React, Node.js and Python**
 
 📫 How to reach me: [tortokiller@proton.me](mailto:tortokiller@proton.me)
 
@@ -33,6 +33,7 @@
 - 💻 Web Development (Frontend & Backend)
 - 🌐 Responsive Web Design & UX/UI
 - ⚙️ API Integration & Web Architecture
+- 🐍 Scripting & Automation with Python
 - 🎮 Basic Game Development Concepts
 
 ---
@@ -42,6 +43,7 @@
 - HTML5 / CSS3 / JavaScript (ES6+)
 - React / Vue / Next.js
 - Node.js / Express
+- Python (scripting, automation, PDF generation)
 - REST APIs & JSON
 - MySQL / MongoDB
 - TailwindCSS / Bootstrap
@@ -67,7 +69,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,nodejs&theme=dark" /><br/>
   <img src="https://skillicons.dev/icons?i=express,php,mongodb,mysql,tailwind,bootstrap,git,github&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,docker,linux,bash,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,vscode,figma,docker,linux,bash,postman&theme=dark" />
 </p>
 
 ---
@@ -82,7 +84,7 @@
 
 <p align="center">
 Web Development · Frontend Engineering<br/>
-Backend Systems · UI/UX Design
+Backend Systems · UI/UX Design · Python Scripting
 </p>
 
 </td>
