@@ -100,7 +100,6 @@ Backend Systems · UI/UX Design · Python Scripting
 
 <img src="https://github-readme-stats.vercel.app/api?username=tortokiller&show_icons=true&theme=radical&hide_border=true&locale=en" width="48%" alt="GitHub Stats"/>
 <img src="https://streak-stats.vercel.app?user=tortokiller&theme=radical&hide_border=true&locale=en" width="48%" alt="GitHub Streak"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tortokiller&layout=compact&theme=radical&hide_border=true&locale=en&count_private=true" width="40%" alt="Top Languages"/>
 
 <br/><br/>
