@@ -85,6 +85,7 @@
 <p align="center">
 Web Development · Frontend Engineering<br/>
 Backend Systems · UI/UX Design · Python Scripting
+    
 </p>
 
 </td>
