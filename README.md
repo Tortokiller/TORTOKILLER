@@ -120,10 +120,7 @@ Backend Systems · UI/UX Design · Python Scripting
 </p>
 
 <!-- Trofeos -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/tortokiller?style=for-the-badge&color=7EC8A4&labelColor=1C1C2E" alt="GitHub Trophies"/>
-  <img src="https://img.shields.io/github/stars/tortokiller?style=for-the-badge&color=7EC8A4&labelColor=1C1C2E" alt="GitHub Trophies2"/>
-</p>
+
 
 <!-- Snake animation (opcional, requiere GitHub Action) -->
 <!--
