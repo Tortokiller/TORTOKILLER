@@ -17,6 +17,8 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=tortokiller&label=Profile%20Views&color=7EC8A4&style=for-the-badge" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/tortokiller?label=Followers&style=for-the-badge&color=7EC8A4&labelColor=1C1C2E" alt="followers"/>
+  <img src="https://img.shields.io/github/followers/tortokiller?style=for-the-badge&color=7EC8A4&labelColor=1C1C2E" alt="GitHub Trophies"/>
+  <img src="https://img.shields.io/github/stars/tortokiller?style=for-the-badge&color=7EC8A4&labelColor=1C1C2E" alt="GitHub Trophies2"/>
 </p>
 
 ---
