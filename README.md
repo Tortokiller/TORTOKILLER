@@ -112,9 +112,7 @@ Backend Systems · UI/UX Design · Python Scripting
 </p>
 
 <!-- Gráfico de actividad -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tortokiller&bg_color=1C1C2E&color=7EC8A4&line=7EC8A4&point=ffffff&area=true&area_color=7EC8A4&hide_border=false&border_color=7EC8A4&radius=12" width="95%" alt="Contribution Graph"/>
-</p>
+
 
 <!-- Trofeos -->
 
