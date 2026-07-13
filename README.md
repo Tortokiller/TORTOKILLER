@@ -104,10 +104,7 @@ Backend Systems · UI/UX Design · Python Scripting
 ## 📈 GitHub Stats
 
 <!-- Stats generales + Top Languages (misma altura, quedan en fila) -->
-<p align="center">
-  <img height="123" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tortokiller&theme=algolia" alt="GitHub Stats"/>
-  <img height="123" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tortokiller&theme=algolia" alt="Top Languages"/>
-</p>
+
 
 <!-- Racha de commits -->
 <p align="center">
